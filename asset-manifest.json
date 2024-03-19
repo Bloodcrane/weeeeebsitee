@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.a5139886.css",
-    "main.js": "/static/js/main.46815b02.js",
-    "static/js/453.8b9a5a08.chunk.js": "/static/js/453.8b9a5a08.chunk.js",
-    "static/media/vinyl.png": "/static/media/vinyl.ae62297bbd8d3abd53bb.png",
-    "static/media/noise-light.png": "/static/media/noise-light.c5e0046e69ce48f05baa.png",
-    "index.html": "/index.html",
-    "main.a5139886.css.map": "/static/css/main.a5139886.css.map",
-    "main.46815b02.js.map": "/static/js/main.46815b02.js.map",
-    "453.8b9a5a08.chunk.js.map": "/static/js/453.8b9a5a08.chunk.js.map"
+    "main.css": "/weeeeebsitee/static/css/main.a0e40dda.css",
+    "main.js": "/weeeeebsitee/static/js/main.2f4a24f2.js",
+    "static/js/453.8b9a5a08.chunk.js": "/weeeeebsitee/static/js/453.8b9a5a08.chunk.js",
+    "static/media/vinyl.png": "/weeeeebsitee/static/media/vinyl.ae62297bbd8d3abd53bb.png",
+    "static/media/noise-light.png": "/weeeeebsitee/static/media/noise-light.c5e0046e69ce48f05baa.png",
+    "index.html": "/weeeeebsitee/index.html",
+    "main.a0e40dda.css.map": "/weeeeebsitee/static/css/main.a0e40dda.css.map",
+    "main.2f4a24f2.js.map": "/weeeeebsitee/static/js/main.2f4a24f2.js.map",
+    "453.8b9a5a08.chunk.js.map": "/weeeeebsitee/static/js/453.8b9a5a08.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a5139886.css",
-    "static/js/main.46815b02.js"
+    "static/css/main.a0e40dda.css",
+    "static/js/main.2f4a24f2.js"
   ]
 }
